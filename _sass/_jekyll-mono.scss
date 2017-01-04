@@ -10,6 +10,7 @@
 .site-name {
     a {
       color: $mono-color;
+      font-weight: bold;
       text-decoration: none;
     	cursor: pointer;
       &:hover{
