@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: $mono-color;
   font-size: 16px;
 
   @include mobile {
@@ -226,13 +226,13 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $white;
+    color: $mono-color;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
     
     &:hover, &:active {
-      color: darken($navbar-hover-color,20);
+      color: darken($mono-color,20);
     }
 
     @include mobile {
