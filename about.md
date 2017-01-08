@@ -4,52 +4,60 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+I'm a PhD student of life sciences at the University of Würzburg.
+As a fellow of the Graduate School of Life Sciences I started my PhD in July 2014.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biological data. I want to use the vast amount of publicly available data and software to unravel some of life's mysteries. I believe in open source, open data, open science and reproducible research. Currently my focus is on genomics and molecular biodiversity.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* **PhD program, Life Sciences**, University of Würzburg (present)
+* **BSc, Informatics**, University of Würzburg (2015)
+* **MSc, Biology**, University of Würzburg (2014)
+* **BSc, Biology**, University of Würzburg (2012)
 
 ## Roles
 
-Founder, ABC Organisation
+* Member of the [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) of the Graduate School of Life Sciences, University of Würzburg
+* Organizer of [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Software Development** - `JavaScript` / `PHP` / `HTML`
+* **Data Analysis** - `Perl` / `R` / `HPC`
+* **Bioinformatics** - `Genomics` / `Transcriptomics` / `Phylogenetics` / `Molecular Ecology`
+* **Social** - `Teamwork` / `Supervision` / `Project Management`
+* **Interests** - `Docker` / `Algorithms` / `Penetration Testing` / `Machine Learning`
     
     
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
+* [**Scientific achievements**](#)
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+    For an overview of my scientific achievements (journal articles, conference presentations, posters, etc.) please see my [institutional website](http://www.zoo3.biozentrum.uni-wuerzburg.de/team/ankenbrand/), [Research Gate](https://www.researchgate.net/profile/Markus_Ankenbrand) or [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ).
 
 ***
 
-* [**This is my second achievement**](#) 
+* [**Fellwoships**](#)
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+    - **2014-present** Fellow of the Graduate School of Life Sciences (GSLS) Würzburg (German Excellence Initiative)
+    - **2012-2014** Deutschlandstipendium (Federal Ministry of Education and Research, Germany)
 
 ***
 
-* [**This is my third achievement**](#) 
+* [**Awards**](#)
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+    - **2015** Award for excellent bachelor studies and outstanding thesis (Faculty of Informatics, University of Würzburg, Germany)
+    - **2012** Award for excellent bachelor thesis (Faculty of Biology, University of Würzburg, Germany)
+    - **2008** *Siemenspreis* for the best natural science university entrance diploma (Siemens Stiftung, Munich, Germany)
 
+***
+
+* [**Projects**](#)
+
+    See an overview of my open source projects [here](../projects/).
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[markus@ankenbrand.me](mailto:markus@ankenbrand.me)
