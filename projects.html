@@ -10,7 +10,7 @@ permalink: /projects/
 
       <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
       {% if project.github %}<a href="{{project.github}}">{% endif %}
-      <img src="{{ project.logo }}" style="float:left; width:150px; padding-right: 10px"></img>
+      <img src="{{ project.logo }}" class="project-logo"></img>
       {% if project.github %}</a>{% endif %}
       <div class="entry">
         {{ project.excerpt }}
