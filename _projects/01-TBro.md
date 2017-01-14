@@ -2,6 +2,7 @@
 layout: post
 title: TBro
 github: https://github.com/TBroTeam/TBro
+logo: https://tbroteam.github.io/TBro/images/tbro_logo.svg
 permalink: projects/TBro
 ---
 
