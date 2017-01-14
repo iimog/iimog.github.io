@@ -6,7 +6,7 @@ permalink: /projects/
 
 <div class="projects">
   {% for project in site.projects %}
-    <div class="project" style="overflow: hidden">
+    <div class="project">
 
       <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
       {% if project.github %}<a href="{{project.github}}">{% endif %}
@@ -18,6 +18,5 @@ permalink: /projects/
 
       <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">Read More</a>
     </div>
-    <hr>
   {% endfor %}
 </div>
