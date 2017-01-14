@@ -6,12 +6,12 @@ permalink: /projects/
 
 <div class="projects">
   {% for project in site.projects %}
-    <div class="project">
+    <div class="project" style="overflow: hidden">
 
       <h1><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h1>
-      {% if project.logo %}
+      {% if project.github %}<a href="{{project.github}}">{% endif %}
       <img src="{{ project.logo }}" style="float:left; width:150px; padding-right: 10px"></img>
-      {% endif %} 
+      {% if project.github %}</a>{% endif %}
       <div class="entry">
         {{ project.excerpt }}
       </div>
