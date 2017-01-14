@@ -13,6 +13,16 @@ collections:
   projects:
     output: true
 
+# Define defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects" # a collection in your site, in plural form
+    values:
+      layout: "post"
+      logo: "/images/noun_1050.svg"
+
 #
 # Flags below are optional
 #
