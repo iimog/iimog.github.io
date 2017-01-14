@@ -4,15 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [TBro](https://github.com/TBroTeam/TBro) 
+A web based transcriptome browser suitable for de novo transcriptomics.
+It has been used to analyze the [Venus Flytrap transcriptome](http://tbro.carnivorom.com/).
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [AliTV](https://github.com/AliTVTeam/AliTV)
+An interactive visualization framework for whole genome alignments using d3.js
+See an example visualization of [seven chloroplast genomes](https://alitvteam.github.io/AliTV/d3/AliTV.html).
 
 ***
 
