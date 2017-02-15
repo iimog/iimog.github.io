@@ -102,6 +102,12 @@ button.button-primary:focus {
   
 }
 
+.intro-header .post-heading img {
+    display:block;
+    margin:auto;
+    width: 150px;
+}
+
 .intro-header .post-heading h1 {
     color:$white;
     font-size: 36px;
@@ -112,7 +118,7 @@ button.button-primary:focus {
 
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading{
-    padding: 150px 0;
+//    padding: 150px 0;
   }
 }
 
