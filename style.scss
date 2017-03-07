@@ -282,7 +282,18 @@ nav {
 .project-logo {
   float:left;
   width:150px;
-  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+
+.logo-panel {
+  float: right;
+  width: 20%;
+}
+
+.excerpt-panel {
+  float: left;
+  width: 80%;
 }
 
 .wrapper-footer {
