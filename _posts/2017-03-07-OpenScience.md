@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Openness
+title: Open Science
 author: Markus J. Ankenbrand
 logo: /images/open-science-735787_640.png
 logo_title: CC0 kholmber/pixabay.com
