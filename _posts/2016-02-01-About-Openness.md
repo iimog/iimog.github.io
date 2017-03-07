@@ -2,6 +2,8 @@
 layout: post
 title: About Openness
 author: Markus J. Ankenbrand
+logo: /images/open-science-735787_640.png
+logo_title: CC0 kholmber/pixabay.com
 ---
 
 I firmly believe that the only way to make good science is by making it as open and reproducible as possible.

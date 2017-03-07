@@ -248,15 +248,12 @@ nav {
 .posts > .post, .projects > .project {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  overflow: hidden;
 }
 
 .posts > .post:last-child, .projects > .project:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-}
-
-.projects > .project {
-  overflow: hidden;
 }
 
 .post {
