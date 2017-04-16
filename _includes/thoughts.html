@@ -10,7 +10,7 @@
         <div class="entry">
           {{ post.excerpt }}
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">{{site.data.t[page.lang].read_more}}</a>
       </div>
     </article>
   {% endfor %}
