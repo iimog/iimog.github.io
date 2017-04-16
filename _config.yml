@@ -6,7 +6,9 @@
 name: Markus J. Ankenbrand
 
 # Short bio or description (displayed in the header)
-description: Bioinformatics PhD Student from Würzburg
+description:
+  en: "Bioinformatics PhD Student from Würzburg"
+  de: "Bioinformatik Doktorand aus Würzburg"
 
 # Define separate collections (e.g. projects)
 collections:
