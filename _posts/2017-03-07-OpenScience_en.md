@@ -6,6 +6,7 @@ logo: /images/open-science-735787_640.png
 logo_title: CC0 kholmber/pixabay.com
 lang: en
 ref: openscience
+permalink: /en/openscience
 ---
 
 I firmly believe that the only way to make good science is by making it as open and reproducible as possible.
