@@ -3,6 +3,8 @@ title: AliTV
 github: https://github.com/AliTVTeam/AliTV
 logo: https://alitvteam.github.io/AliTV/d3/css/AliTV_logo.png
 permalink: /projects/AliTV
+lang: en
+ref: alitv
 ---
 
 An interactive visualization framework for whole genome alignments using d3.js

@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+lang: en
+ref: about
 ---
 
 I'm a PhD student of life sciences at the University of Würzburg.
