@@ -1,10 +1,13 @@
 ---
 layout: page
 permalink: /projects/
+lang: en
+ref: projects
 ---
 
 <div class="projects">
-  {% for project in site.projects %}
+  {% assign projects=site.projects | where:"lang", page.lang %}
+  {% for project in projects %}
     <div class="project">
 
       <div class="logo-panel">
