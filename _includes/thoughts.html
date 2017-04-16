@@ -1,9 +1,6 @@
----
-layout: default
----
-
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
     <article class="post">
 	  <div class="logo-panel">
 		  <img src="{{ post.logo }}" class="project-logo" title="{{ post.logo_title }}"></img>
@@ -13,7 +10,7 @@ layout: default
         <div class="entry">
           {{ post.excerpt }}
         </div>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">{{site.data.t[page.lang].read_more}}</a>
       </div>
     </article>
   {% endfor %}

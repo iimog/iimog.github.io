@@ -1,0 +1,12 @@
+en:
+  thoughts: "Thoughts"
+  about:    "About"
+  projects: "Projects"
+  read_more: "Read More"
+  view_github: "View on GitHub"
+de:
+  thoughts: "Gedanken"
+  about:    "Über Mich"
+  projects: "Projekte"
+  read_more: "Mehr"
+  view_github: "Zum GitHub Profil"

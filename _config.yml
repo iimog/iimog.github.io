@@ -6,7 +6,9 @@
 name: Markus J. Ankenbrand
 
 # Short bio or description (displayed in the header)
-description: Bioinformatics PhD Student from Würzburg
+description:
+  en: "Bioinformatics PhD Student from Würzburg"
+  de: "Bioinformatik Doktorand aus Würzburg"
 
 # Define separate collections (e.g. projects)
 collections:
@@ -85,6 +87,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-redirect-from
 
 # Exclude these files from your production _site
 exclude:

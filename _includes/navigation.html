@@ -2,14 +2,28 @@
   <div class="container">
     <header class="masthead clearfix">
       <div class="site-info">
-        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-        <p class="site-description">{{ site.description }}</p>
+          <h1 class="site-name"><a href="{{ site.baseurl }}/{{ page.lang }}/thoughts">{{ site.name }}</a></h1>
+        <p class="site-description">{{ site.description[page.lang] }}</p>
       </div>
       <nav>
-        <a href="{{ site.baseurl }}/">Thoughts</a>
-        <a href="{{ site.baseurl }}/about">About</a>
-        <a href="{{ site.baseurl }}/projects">Projects</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/thoughts">{{site.data.t[page.lang].thoughts}}</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/about">{{site.data.t[page.lang].about}}</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/projects">{{site.data.t[page.lang].projects}}</a>
       </nav>
     </header>
+    <div style="float: right;">
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+    {% endfor %}
+    {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
+    {% for project in projects %}
+      <a href="{{ project.url }}" class="{{ project.lang }}">{{ project.lang }}</a>
+    {% endfor %}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    {% endfor %}
+    </div>
   </div>
 </div>

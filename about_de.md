@@ -1,11 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /de/about/
+lang: de
+ref: about
 ---
 
-I'm a PhD student of life sciences at the University of Würzburg.
-As a fellow of the Graduate School of Life Sciences I started my PhD in July 2014.
+Ich bin Doktorand im Fach Life Sciences an der Universität Würzburg.
+Meine Doktorarbeit habe ich als Stipendiat der Graduate School of Life Sciences im Juli 2014 begonnen.
 
 My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biological data. I want to use the vast amount of publicly available data and software to unravel some of life's mysteries. I believe in open source, open data, open science and reproducible research. Currently my focus is on genomics and molecular biodiversity.
 

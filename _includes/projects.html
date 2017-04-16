@@ -1,10 +1,6 @@
----
-layout: page
-permalink: /projects/
----
-
 <div class="projects">
-  {% for project in site.projects %}
+  {% assign projects=site.projects | where:"lang", page.lang %}
+  {% for project in projects %}
     <div class="project">
 
       <div class="logo-panel">
@@ -18,7 +14,7 @@ permalink: /projects/
           {{ project.excerpt }}
         </div>
 
-        <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">Read More</a>
+        <a href="{{ site.baseurl }}{{ project.url }}" class="button button-primary">{{site.data.t[page.lang].read_more}}</a>
       </div>
     </div>
   {% endfor %}
