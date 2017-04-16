@@ -6,9 +6,9 @@
         <p class="site-description">{{ site.description[page.lang] }}</p>
       </div>
       <nav>
-        <a href="{{ site.baseurl }}/{{ page.lang }}/thoughts">Thoughts</a>
-        <a href="{{ site.baseurl }}/{{ page.lang }}/about">About</a>
-        <a href="{{ site.baseurl }}/{{ page.lang }}/projects">Projects</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/thoughts">{{site.data.t[page.lang].thoughts}}</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/about">{{site.data.t[page.lang].about}}</a>
+        <a href="{{ site.baseurl }}/{{ page.lang }}/projects">{{site.data.t[page.lang].projects}}</a>
       </nav>
     </header>
     <div style="float: right;">
