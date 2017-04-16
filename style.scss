@@ -305,5 +305,9 @@ footer {
   text-align: center;
 }
 
+.en:lang(en), .de:lang(de){
+  font-weight: bold;
+}
+
 @import "highlights";
 @import "jekyll-mono";
