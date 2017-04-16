@@ -2,7 +2,7 @@
 title: TBro
 github: https://github.com/TBroTeam/TBro
 logo: https://tbroteam.github.io/TBro/images/tbro_logo.svg
-permalink: en/projects/TBro
+permalink: /en/projects/TBro
 lang: en
 ref: tbro
 ---

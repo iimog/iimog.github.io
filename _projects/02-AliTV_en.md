@@ -2,7 +2,7 @@
 title: AliTV
 github: https://github.com/AliTVTeam/AliTV
 logo: https://alitvteam.github.io/AliTV/d3/css/AliTV_logo.png
-permalink: /projects/AliTV
+permalink: /en/projects/AliTV
 lang: en
 ref: alitv
 ---

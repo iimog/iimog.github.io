@@ -2,7 +2,7 @@
 title: bcgTree
 github: https://github.com/molbiodiv/bcgTree
 logo: https://github.com/molbiodiv/bcgTree/raw/master/doc/bcgTree.png
-permalink: /projects/bcgTree
+permalink: /en/projects/bcgTree
 lang: en
 ref: bcgtree
 ---

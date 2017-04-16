@@ -2,7 +2,7 @@
 title: biojs-io-biom
 github: https://github.com/molbiodiv/biojs-io-biom
 logo: /images/biojs-io-biom.png
-permalink: /projects/biojs-io-biom
+permalink: /en/projects/biojs-io-biom
 lang: en
 ref: biojsiobiom
 ---
