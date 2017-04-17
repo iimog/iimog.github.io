@@ -25,6 +25,7 @@ Aktuell liegt mein Fokus auf Genomik und molekularer Biodiversitätsforschung.
 
 * Mitglied des [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) der Graduate School of Life Sciences, Universität Würzburg
 * Organistaor der [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
+* Geprüfter Trainer für [Software Carpentry](https://software-carpentry.org/) und [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Fähigkeiten
 

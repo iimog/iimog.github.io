@@ -22,6 +22,7 @@ My research interests are the development and application of algorithms, tools a
 
 * Member of the [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) of the Graduate School of Life Sciences, University of Würzburg
 * Organizer of [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
+* Certified Instructor for [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Skills
 
