@@ -54,7 +54,7 @@ Aktuell liegt mein Fokus auf Genomik und molekularer Biodiversitätsforschung.
 
 * [**Preise**](#)
 
-    - **2015** Preis für ausgezeichnetes Bachelorstudium und herausragende Abschlussarbeit (Fakultät für Informatik, Universität Würzburg, Deutschland)
+    - **2015** Preis für ausgezeichnetes Studienleistungen und herausragende Bachelorarbeit (Fakultät für Informatik, Universität Würzburg, Deutschland)
     - **2012** Preis für ausgezeichnete Bachelorarbeit (Fakultät für Biologie, Universität Würzburg, Deutschland)
     - **2008** *Siemenspreis* für das beste naturwissenschaftliche Abitur (Siemens Stiftung, München, Deutschland)
 
