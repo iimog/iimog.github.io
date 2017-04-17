@@ -11,8 +11,8 @@ Eine Plattform zur intereaktiven Visualisierung von Alignments ganzer Genome.
 Hier ist ein Beispiel mit [sieben Chloroplasten Genomen](https://alitvteam.github.io/AliTV/d3/AliTV.html).
 
 Durch den Vergleich der Genomstruktur verschiedener Organismen kann man interessante Erkenntnisse über evolutive Prozesse gewinnen.
-Dafür sind jedoch Alignments ganzer Genome erforderlich die jedoch ohne geeignete Visualisierung schwer zu interpretieren sind.
-AliTV verwendet [D3.js](https://d3js.org/) um interaktive Darstellungen zu erzeugen.
+Dafür sind jedoch Alignments ganzer Genome erforderlich die aber ohne geeignete Visualisierung schwer zu interpretieren sind.
+`AliTV` verwendet [D3.js](https://d3js.org/) um interaktive Darstellungen zu erzeugen.
 
 Der Quelltext ist auf [GitHub]({{page.github}}).
 Ein Preprint der `AliTV` beschreibt ist in [PeerJ Preprints](https://peerj.com/preprints/2348v1/) erschienen.
