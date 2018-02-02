@@ -6,8 +6,8 @@ lang: de
 ref: about
 ---
 
-Ich bin Doktorand im Fach Life Sciences an der Universität Würzburg.
-Meine Doktorarbeit habe ich als Stipendiat der Graduate School of Life Sciences im Juli 2014 begonnen.
+Ich bin PostDoc in der [Molecular Ecology Gruppe](https://molecular.eco) an der Universität Würzburg.
+Meine Doktorarbeit habe ich als Stipendiat der Graduate School of Life Sciences im Juli 2014 begonnen und im Dezember 2017 abgeschlossen.
 
 Besonders interessiere ich mich für die Entwicklung von Algorithmen, Werkzeugen und Programmen um aus biologischen Daten Erkenntnisse zu gewinnen.
 Ich helfe dabei mit Hilfe der großen Menge öffentlich verfügbarer Daten einige Geheimnisse der Natur zu entschlüsseln.
@@ -16,16 +16,17 @@ Aktuell liegt mein Fokus auf Genomik und molekularer Biodiversitätsforschung.
 
 ## Ausbildung
 
-* **Doktorarbeit, Life Sciences**, Universität Würzburg (aktuell)
+* **PostDoc, Molecular Ecology Gruppe**, Universität Würzburg (aktuell)
+* **Dr. rer. nat., Life Sciences**, Universität Würzburg (2017)
 * **BSc, Informatik**, Universität Würzburg (2015)
 * **MSc, Biologie**, Universität Würzburg (2014)
 * **BSc, Biologie**, Universität Würzburg (2012)
 
 ## Engagement
 
-* Mitglied des [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) der Graduate School of Life Sciences, Universität Würzburg
-* Organistaor der [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
-* Geprüfter Trainer für [Software Carpentry](https://software-carpentry.org/) und [Data Carpentry](http://www.datacarpentry.org/)
+* Ehemaliges Mitglied des [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) der Graduate School of Life Sciences, Universität Würzburg
+* Organisator der [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
+* Zertifizierter Trainer für [Software Carpentry](https://software-carpentry.org/) und [Data Carpentry](http://www.datacarpentry.org/)
 
 ## Fähigkeiten
 
@@ -47,7 +48,7 @@ Aktuell liegt mein Fokus auf Genomik und molekularer Biodiversitätsforschung.
 
 * [**Stipendien**](#)
 
-    - **seit 2014** Stipendiat der Graduate School of Life Sciences (GSLS) Würzburg (Deutsche Exzellenz Initiative)
+    - **2014-2017** Stipendiat der Graduate School of Life Sciences (GSLS) Würzburg (Deutsche Exzellenz Initiative)
     - **2012-2014** Deutschlandstipendium (Bundesministerium für Bildung und Forschung, Deutschland)
 
 ***

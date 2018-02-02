@@ -6,21 +6,22 @@ lang: en
 ref: about
 ---
 
-I'm a PhD student of life sciences at the University of Würzburg.
-As a fellow of the Graduate School of Life Sciences I started my PhD in July 2014.
+I'm a PostDoc in the [Molecular Ecology Group](https://molecular.eco) at the University of Würzburg.
+As a fellow of the Graduate School of Life Sciences I started my PhD in July 2014 and finished in December 2017.
 
 My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biological data. I want to use the vast amount of publicly available data and software to unravel some of life's mysteries. I believe in open source, open data, open science and reproducible research. Currently my focus is on genomics and molecular biodiversity.
 
 ## Education
 
-* **PhD program, Life Sciences**, University of Würzburg (present)
+* **PostDoc, Molecular Ecology Group**, University of Würzburg (present)
+* **PhD, Life Sciences**, University of Würzburg (2017)
 * **BSc, Informatics**, University of Würzburg (2015)
 * **MSc, Biology**, University of Würzburg (2014)
 * **BSc, Biology**, University of Würzburg (2012)
 
 ## Roles
 
-* Member of the [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) of the Graduate School of Life Sciences, University of Würzburg
+* Former member of the [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) of the Graduate School of Life Sciences, University of Würzburg
 * Organizer of [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
 * Certified Instructor for [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/)
 
@@ -44,7 +45,7 @@ My research interests are the development and application of algorithms, tools a
 
 * [**Fellwoships**](#)
 
-    - **2014-present** Fellow of the Graduate School of Life Sciences (GSLS) Würzburg (German Excellence Initiative)
+    - **2014-2017** Fellow of the Graduate School of Life Sciences (GSLS) Würzburg (German Excellence Initiative)
     - **2012-2014** Deutschlandstipendium (Federal Ministry of Education and Research, Germany)
 
 ***
