@@ -15,5 +15,5 @@ Dafür sind jedoch Alignments ganzer Genome erforderlich die aber ohne geeignete
 `AliTV` verwendet [D3.js](https://d3js.org/) um interaktive Darstellungen zu erzeugen.
 
 Der Quelltext ist auf [GitHub]({{page.github}}).
-Ein Preprint der `AliTV` beschreibt ist in [PeerJ Preprints](https://peerj.com/preprints/2348v1/) erschienen.
+Ein Artikel der `AliTV` beschreibt ist in [PeerJ Computer Science](https://peerj.com/articles/cs-116/) erschienen.
 Außerdem wurde dieses [Poster](https://zenodo.org/record/32014#.WKWPC1fn3mE) bei der Konferenz Eureka 2015 in Würzburg and dieser [Vortrag](https://alitvteam.github.io/AliTV/gcb_2016/) (von Sonja Hohlfeld) bei der GCB 2016 in Berlin präsentiert.

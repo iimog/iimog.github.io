@@ -16,5 +16,5 @@ However, the interpretation of whole genome alignments is difficult without prop
 `AliTV` utilizes [D3.js](https://d3js.org/) to create interactive visualizations of whole genome alignments.
 
 See the repository on [GitHub]({{page.github}}).
-A preprint describing `AliTV` is published in [PeerJ Preprints](https://peerj.com/preprints/2348v1/).
+An article describing `AliTV` is published in [PeerJ Computer Science](https://peerj.com/articles/cs-116/).
 Further a [poster](https://zenodo.org/record/32014#.WKWPC1fn3mE) has been presented at Eureka 2015 in Würzburg and a [talk](https://alitvteam.github.io/AliTV/gcb_2016/) (by Sonja Hohlfeld) at the GCB 2016 in Berlin.
