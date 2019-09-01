@@ -7,8 +7,8 @@ name: Markus J. Ankenbrand
 
 # Short bio or description (displayed in the header)
 description:
-  en: "Bioinformatics PostDoc in Würzburg"
-  de: "Bioinformatik PostDoc in Würzburg"
+  en: "Bioinformatician in Würzburg"
+  de: "Bioinformatiker in Würzburg"
 
 # Define separate collections (e.g. projects)
 collections:
@@ -84,7 +84,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-redirect-from
