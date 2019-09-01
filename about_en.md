@@ -6,61 +6,17 @@ lang: en
 ref: about
 ---
 
-I'm a PostDoc in the [Molecular Ecology Group](https://molecular.eco) at the University of Würzburg.
-As a fellow of the Graduate School of Life Sciences I started my PhD in July 2014 and finished in December 2017.
+I'm a Bioinformatician in the [Comprehensive Heart Failure Center](https://www.ukw.de/clinical-profile-centers/comprehensive-heart-failure-center-chfc/home/) at the University Hospital Würzburg.
 
-My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biological data. I want to use the vast amount of publicly available data and software to unravel some of life's mysteries. I believe in open source, open data, open science and reproducible research. Currently my focus is on genomics and molecular biodiversity.
+My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biomedical data. Currently, my focus is on the possibilities and limitations of machine learning and artificial inteligence in biomedical research. With primary applications in imaging for Heart Failure research.
 
-## Education
+## More
 
-* **PostDoc, Molecular Ecology Group**, University of Würzburg (present)
-* **PhD, Life Sciences**, University of Würzburg (2017)
-* **BSc, Informatics**, University of Würzburg (2015)
-* **MSc, Biology**, University of Würzburg (2014)
-* **BSc, Biology**, University of Würzburg (2012)
+I keep this website minimal so if you want to learn more about what I do check out these resources:
 
-## Roles
-
-* Former member of the [Doctoral Researchers Council](http://www.graduateschools.uni-wuerzburg.de/life_sciences/doctoral_researchers/doctoral_researchers_council/) of the Graduate School of Life Sciences, University of Würzburg
-* Organizer of [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
-* Certified Instructor for [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/)
-
-## Skills
-
-* **Software Development** - `JavaScript` / `PHP` / `HTML`
-* **Data Analysis** - `Perl` / `R` / `HPC`
-* **Bioinformatics** - `Genomics` / `Transcriptomics` / `Phylogenetics` / `Molecular Ecology`
-* **Social** - `Teamwork` / `Supervision` / `Project Management`
-* **Interests** - `Docker` / `Algorithms` / `Penetration Testing` / `Machine Learning`
-    
-    
-## Achievements
-
-
-* [**Scientific achievements**](#)
-   
-    For an overview of my scientific achievements (journal articles, conference presentations, posters, etc.) please see my [institutional website](http://www.zoo3.biozentrum.uni-wuerzburg.de/team/ankenbrand/), [Research Gate](https://www.researchgate.net/profile/Markus_Ankenbrand) or [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ).
-
-***
-
-* [**Fellwoships**](#)
-
-    - **2014-2017** Fellow of the Graduate School of Life Sciences (GSLS) Würzburg (German Excellence Initiative)
-    - **2012-2014** Deutschlandstipendium (Federal Ministry of Education and Research, Germany)
-
-***
-
-* [**Awards**](#)
-
-    - **2015** Award for excellent bachelor studies and outstanding thesis (Faculty of Informatics, University of Würzburg, Germany)
-    - **2012** Award for excellent bachelor thesis (Faculty of Biology, University of Würzburg, Germany)
-    - **2008** *Siemenspreis* for the best natural science university entrance diploma (Siemens Stiftung, Munich, Germany)
-
-***
-
-* [**Projects**](#)
-
-    See an overview of my open source projects [here](../projects/).
+* Open Source Projects: [GitHub](https://github.com/iimog)
+* Scientific Papers: [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ)
+* Meetup: [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
 
 ## Contact me
 
