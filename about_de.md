@@ -12,13 +12,10 @@ Besonders interessiere ich mich für die Entwicklung von Algorithmen, Werkzeugen
 Aktuell liegt mein Fokus darauf die Möglichkeiten maschinellen Lernens und künstlicher Intelligenz in der biomedizinischen Forschung zu untersuchen.
 Meine Hauptanwendung ist computergestützte Kardiologie.
 
-Außerdem bin ich Mitgründer der Firmer [AnaLife Data Science](https://analife.de/). Wir bieten Datenanalysen als Dienstleistung.
-
 ## Mehr
 
 Ich halte diese Website minimal und verweise auf folgende Resourcen wenn Sie mehr über meine Arbeit erfahren wollen:
 
-* Firma: [AnaLife Data Science](https://analife.de/)
 * Open Source Projekte: [GitHub](https://github.com/iimog)
 * Wissenschaftliche Veröffentlichungen: [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ)
 * Treffen: [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
