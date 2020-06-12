@@ -12,13 +12,10 @@ My research interests are the development and application of algorithms, tools a
 Currently, my focus is on the possibilities and limitations of machine learning and artificial inteligence in biomedical research.
 With primary applications in computational cardiology.
 
-I'm also co-founder of [AnaLife Data Science](https://analife.de/), we offer data analytics as a service.
-
 ## More
 
 I keep this website minimal so if you want to learn more about what I do check out these resources:
 
-* Company: [AnaLife Data Science](https://analife.de/)
 * Open Source Projects: [GitHub](https://github.com/iimog)
 * Scientific Papers: [Google Scholar](https://scholar.google.de/citations?user=Qroex8UAAAAJ)
 * Meetup: [HackyHour Würzburg](http://hackyhour.github.io/Wuerzburg/)
