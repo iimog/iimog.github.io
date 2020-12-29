@@ -6,11 +6,11 @@ lang: de
 ref: about
 ---
 
-Ich bin Bioinformatiker im [Deutschen Zentrum für Herzinsuffizienz](https://www.ukw.de/behandlungszentren/dzhi/startseite/) der Uniklinik Würzburg.
+Ich bin Bioinformatiker am [Center for Computational and Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) der Universität Würzburg.
 
 Besonders interessiere ich mich für die Entwicklung von Algorithmen, Werkzeugen und Programmen um aus biomedizinischen Daten Erkenntnisse zu gewinnen.
 Aktuell liegt mein Fokus darauf die Möglichkeiten maschinellen Lernens und künstlicher Intelligenz in der biomedizinischen Forschung zu untersuchen.
-Meine Hauptanwendung ist computergestützte Kardiologie.
+Außerdem beteilige ich mich im Rahmen des [ESF-ZDEX Projektes](https://www.uni-wuerzburg.de/sft/esf-zdex/netzwerk-bildanalyse-visualisierung-und-modellierung-komplexer-systeme/) am Wissenstransfer mit lokalen Unternehmen.
 
 ## Mehr
 
