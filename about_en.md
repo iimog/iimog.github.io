@@ -6,11 +6,11 @@ lang: en
 ref: about
 ---
 
-I'm a Bioinformatician in the [Comprehensive Heart Failure Center](https://www.ukw.de/clinical-profile-centers/comprehensive-heart-failure-center-chfc/home/) at the University Hospital Würzburg.
+I'm a Bioinformatician at the [Center for Computational and Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) at the University of Würzburg.
 
 My research interests are the development and application of algorithms, tools and workflows to generate knowledge from biomedical data.
 Currently, my focus is on the possibilities and limitations of machine learning and artificial inteligence in biomedical research.
-With primary applications in computational cardiology.
+Additionally, I engage in knowledge transfer with local businesses as part of the [ESF-ZDEX Project](https://www.uni-wuerzburg.de/sft/esf-zdex/netzwerk-bildanalyse-visualisierung-und-modellierung-komplexer-systeme/).
 
 ## More
 
